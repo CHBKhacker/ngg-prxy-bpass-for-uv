@@ -1,4 +1,4 @@
-**ngg prxy bpass for uv**
+# ngg prxy bpass for uv
 
 First, go to https://holyubofficial.net/
 
